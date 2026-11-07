@@ -1,0 +1,6 @@
+*.exe
+*.deb
+*.dmg
+*.AppImage
+.DS_Store
+.claude/
