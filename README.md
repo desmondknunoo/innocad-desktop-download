@@ -8,3 +8,4 @@ Download from [Releases](../../releases).
 
 ## Files in v1.0.1
 - `innocad-1.0.1-windows-x64.exe` — Windows (x64)
+- `innocad-1.0.1-linux-x86_64.deb` — Linux (x86_64, Debian/Ubuntu)
